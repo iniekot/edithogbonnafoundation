@@ -1,0 +1,13 @@
+.page {
+    background: '#f9f9f9';
+    height: '100vh';
+}
+
+/* topbar */
+
+.abRoot {background-color:red}
+.abStatic {border: "solid blue 2px"}
+.customizeToolbar {
+        min-height: 36;
+        vertical-align: 'middle'
+      }
